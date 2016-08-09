@@ -1,0 +1,24 @@
+{
+  "name": "no-cache-loader",
+  "version": "1.0.0",
+  "description": "webpack no cache loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxkostow/no-cache-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "cache",
+    "loader"
+  ],
+  "author": "Max Kostow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxkostow/no-cache-loader/issues"
+  },
+  "homepage": "https://github.com/maxkostow/no-cache-loader#readme"
+}
